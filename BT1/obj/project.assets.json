@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\C#\\KHTN-NMLT-BTVN1\\KHTN-NMLT-BTVN1\\BT1\\BT1.csproj",
+      "projectUniqueName": "D:\\Code\\C#\\KHTN-NMLT-BTVN1\\BT1\\BT1.csproj",
       "projectName": "BT1",
-      "projectPath": "D:\\Code\\C#\\KHTN-NMLT-BTVN1\\KHTN-NMLT-BTVN1\\BT1\\BT1.csproj",
+      "projectPath": "D:\\Code\\C#\\KHTN-NMLT-BTVN1\\BT1\\BT1.csproj",
       "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\C#\\KHTN-NMLT-BTVN1\\KHTN-NMLT-BTVN1\\BT1\\obj\\",
+      "outputPath": "D:\\Code\\C#\\KHTN-NMLT-BTVN1\\BT1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WIN10\\AppData\\Roaming\\NuGet\\NuGet.Config",

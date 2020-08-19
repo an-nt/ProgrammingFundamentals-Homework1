@@ -6,12 +6,13 @@ namespace BT1
     {
         static void Main(string[] args)
         {
+            //Khai bao tham so
             int N;
             int S = 0;
             int i = 1;
             string back;
 
-        ReDubug:
+        ReDebug:
         ReInput:
             //Nhap va kiem tra thong so dau vao
             Console.WriteLine("Nhap N");
@@ -35,7 +36,7 @@ namespace BT1
             back = Console.ReadLine();
             if (back == "yes")
             {
-                goto ReDubug;
+                goto ReDebug;
             }
         }
     }
