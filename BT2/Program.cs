@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BT1
+namespace BT2
 {
     class Program
     {
@@ -26,7 +26,7 @@ namespace BT1
             //Tinh toan theo yeu cau de bai
             while (i <= N)
             {
-                S += i;
+                S += i*i;
                 i++;
             }
             Console.WriteLine($"Ket qua S bang {S}");
