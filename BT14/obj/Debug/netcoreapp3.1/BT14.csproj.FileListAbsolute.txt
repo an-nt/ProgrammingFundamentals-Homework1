@@ -1,0 +1,12 @@
+D:\Code\C#\KHTN-NMLT-BTVN1\BT14\bin\Debug\netcoreapp3.1\BT14.exe
+D:\Code\C#\KHTN-NMLT-BTVN1\BT14\bin\Debug\netcoreapp3.1\BT14.deps.json
+D:\Code\C#\KHTN-NMLT-BTVN1\BT14\bin\Debug\netcoreapp3.1\BT14.runtimeconfig.json
+D:\Code\C#\KHTN-NMLT-BTVN1\BT14\bin\Debug\netcoreapp3.1\BT14.runtimeconfig.dev.json
+D:\Code\C#\KHTN-NMLT-BTVN1\BT14\bin\Debug\netcoreapp3.1\BT14.dll
+D:\Code\C#\KHTN-NMLT-BTVN1\BT14\bin\Debug\netcoreapp3.1\BT14.pdb
+D:\Code\C#\KHTN-NMLT-BTVN1\BT14\obj\Debug\netcoreapp3.1\BT14.AssemblyInfoInputs.cache
+D:\Code\C#\KHTN-NMLT-BTVN1\BT14\obj\Debug\netcoreapp3.1\BT14.AssemblyInfo.cs
+D:\Code\C#\KHTN-NMLT-BTVN1\BT14\obj\Debug\netcoreapp3.1\BT14.csproj.CoreCompileInputs.cache
+D:\Code\C#\KHTN-NMLT-BTVN1\BT14\obj\Debug\netcoreapp3.1\BT14.dll
+D:\Code\C#\KHTN-NMLT-BTVN1\BT14\obj\Debug\netcoreapp3.1\BT14.pdb
+D:\Code\C#\KHTN-NMLT-BTVN1\BT14\obj\Debug\netcoreapp3.1\BT14.genruntimeconfig.cache

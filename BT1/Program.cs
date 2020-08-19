@@ -32,7 +32,7 @@ namespace BT1
             Console.WriteLine($"Ket qua S bang {S}");
 
             //Thuc hien lai chuong trinh
-            Console.WriteLine("Nhap YES de thuc hien lai chuong trinh)");
+            Console.WriteLine("Nhap YES de thuc hien lai chuong trinh");
             back = Console.ReadLine();
             if (back == "yes")
             {
