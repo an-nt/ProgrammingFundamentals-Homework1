@@ -1,0 +1,12 @@
+D:\Code\C#\KHTN-NMLT-BTVN1\BT323\bin\Debug\netcoreapp3.1\BT323.exe
+D:\Code\C#\KHTN-NMLT-BTVN1\BT323\bin\Debug\netcoreapp3.1\BT323.deps.json
+D:\Code\C#\KHTN-NMLT-BTVN1\BT323\bin\Debug\netcoreapp3.1\BT323.runtimeconfig.json
+D:\Code\C#\KHTN-NMLT-BTVN1\BT323\bin\Debug\netcoreapp3.1\BT323.runtimeconfig.dev.json
+D:\Code\C#\KHTN-NMLT-BTVN1\BT323\bin\Debug\netcoreapp3.1\BT323.dll
+D:\Code\C#\KHTN-NMLT-BTVN1\BT323\bin\Debug\netcoreapp3.1\BT323.pdb
+D:\Code\C#\KHTN-NMLT-BTVN1\BT323\obj\Debug\netcoreapp3.1\BT323.AssemblyInfoInputs.cache
+D:\Code\C#\KHTN-NMLT-BTVN1\BT323\obj\Debug\netcoreapp3.1\BT323.AssemblyInfo.cs
+D:\Code\C#\KHTN-NMLT-BTVN1\BT323\obj\Debug\netcoreapp3.1\BT323.csproj.CoreCompileInputs.cache
+D:\Code\C#\KHTN-NMLT-BTVN1\BT323\obj\Debug\netcoreapp3.1\BT323.dll
+D:\Code\C#\KHTN-NMLT-BTVN1\BT323\obj\Debug\netcoreapp3.1\BT323.pdb
+D:\Code\C#\KHTN-NMLT-BTVN1\BT323\obj\Debug\netcoreapp3.1\BT323.genruntimeconfig.cache
