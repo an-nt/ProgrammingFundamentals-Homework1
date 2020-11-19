@@ -1,0 +1,12 @@
+D:\Code\C#\KHTN-NMLT-BTVN1\Struct\bin\Debug\netcoreapp3.1\Struct.exe
+D:\Code\C#\KHTN-NMLT-BTVN1\Struct\bin\Debug\netcoreapp3.1\Struct.deps.json
+D:\Code\C#\KHTN-NMLT-BTVN1\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.json
+D:\Code\C#\KHTN-NMLT-BTVN1\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.dev.json
+D:\Code\C#\KHTN-NMLT-BTVN1\Struct\bin\Debug\netcoreapp3.1\Struct.dll
+D:\Code\C#\KHTN-NMLT-BTVN1\Struct\bin\Debug\netcoreapp3.1\Struct.pdb
+D:\Code\C#\KHTN-NMLT-BTVN1\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfoInputs.cache
+D:\Code\C#\KHTN-NMLT-BTVN1\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfo.cs
+D:\Code\C#\KHTN-NMLT-BTVN1\Struct\obj\Debug\netcoreapp3.1\Struct.csproj.CoreCompileInputs.cache
+D:\Code\C#\KHTN-NMLT-BTVN1\Struct\obj\Debug\netcoreapp3.1\Struct.dll
+D:\Code\C#\KHTN-NMLT-BTVN1\Struct\obj\Debug\netcoreapp3.1\Struct.pdb
+D:\Code\C#\KHTN-NMLT-BTVN1\Struct\obj\Debug\netcoreapp3.1\Struct.genruntimeconfig.cache
